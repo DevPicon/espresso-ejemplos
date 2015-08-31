@@ -19,14 +19,14 @@ import static android.support.test.espresso.matcher.ViewMatchers.withText;
  */
 @RunWith(AndroidJUnit4.class)
 @LargeTest
-public class MainActivityInstrumentationTestCase {
+public class MainActivityTest {
 
     @Rule
     public ActivityTestRule<MainActivity> activityTestRule
             = new ActivityTestRule<>(MainActivity.class);
 
     @Test
-    public void test01(){
+    public void probarSiApareceTexto(){
         onView(withId(R.id.txt_helloworld))
             .check(matches(withText(R.string.hello_world)));
     }

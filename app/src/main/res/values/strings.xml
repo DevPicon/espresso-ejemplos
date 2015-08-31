@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_test1">Test Hello World</string>
+    <string name="title_activity_test2">Test Button Click me!</string>
+    <string name="button_clickme_label">Click me!</string>
 </resources>
