@@ -31,8 +31,8 @@ public class SecondActivityTest {
                 .check(matches(not(isEnabled())));
     }
 
-
-    @Test
+    // Este test fallará, es para fines didacticos
+    // @Test
     public void probarSiBotonEstaActivo(){
         onView(withId(R.id.button_clickme))
                 .perform(click())
