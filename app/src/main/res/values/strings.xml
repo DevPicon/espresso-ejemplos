@@ -6,5 +6,8 @@
     <string name="title_activity_test1">Test Hello World</string>
     <string name="title_activity_test2">Test Button Click me!</string>
     <string name="button_clickme_label">Click me!</string>
-    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_third">Test Hello Andrew!</string>
+    <string name="title_activity_fouth">Test My List of Groceries</string>
+
+    <string name="grocery_selected">Grocery selected:</string>
 </resources>
