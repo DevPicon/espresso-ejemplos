@@ -10,4 +10,5 @@
     <string name="title_activity_fouth">Test My List of Groceries</string>
 
     <string name="grocery_selected">Grocery selected:</string>
+    <string name="title_activity_fifth">FifthActivity</string>
 </resources>
